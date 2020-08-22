@@ -1,5 +1,5 @@
 # Radar_classification
-In this project we classified the objects based on the features extracted from range FFT from mmWave radar. 
+In this project we classify the objects based on the features extracted from range FFT from mmWave radar. 
 ## Dataset
 The entire dataset is found here https://drive.google.com/file/d/1f2t5KJqbpsqW9dV6X8CI3ZIrhuFNI2jV/view?usp=sharing .
 ### Description 
