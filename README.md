@@ -13,7 +13,7 @@ In this project 4 machine learning models were apllied on the above mentioned da
 2. The trained logistic regression model can be found here https://drive.google.com/file/d/1ZQKDnykqlbd5GMcEdsWefS52N7LU-AIp/view?usp=sharing .
 
 ### Naive Bayes
-1.The file Naive_Bayes.ipynb consists of the Naives Bayes model. This file consists of all the steps from loading the dataset to training and then testing and saing the trained model.
+1.The file Naive_Bayes.ipynb consists of the Naives Bayes model. This file consists of all the steps from loading the dataset to training and then testing and saing the trained model. (space)
 2. The trained logistic regression model can be found here https://drive.google.com/file/d/1Evh8LaBAtU8L1Dvv4aLxJ0ZtLL9Xte2Z/view?usp=sharing .
 
 ### SVM
