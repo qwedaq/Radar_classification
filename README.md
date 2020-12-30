@@ -1,7 +1,7 @@
 # Radar_classification
 In this project we classify the objects based on the features extracted from range FFT from mmWave radar. 
 ## Dataset
-The entire dataset is found here https://drive.google.com/file/d/1f2t5KJqbpsqW9dV6X8CI3ZIrhuFNI2jV/view?usp=sharing .
+The dataset is private. For the dataset please contact me.
 ### Description 
 1. Total samples: 226
 2. Total classes: 3 ( Car, Drone, Human)
