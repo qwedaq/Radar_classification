@@ -1,4 +1,6 @@
 # Radar_classification
+J. Bhatia, A. Dayal et al., "Object Classification Technique for mmWave FMCW Radars using Range-FFT Features," 2021 International Conference on COMmunication Systems & NETworkS (COMSNETS), Bangalore, India, 2021, pp. 111-115, doi: 10.1109/COMSNETS51098.2021.9352894.
+
 In this project we classify the objects based on the features extracted from range FFT from mmWave radar. 
 ## Dataset
 The dataset is private. For the dataset please contact me.
